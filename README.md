@@ -1,6 +1,6 @@
 # bazel-golang-hello-world
 
-A minimal example shows how to use bazel with golang.
+A minimal example shows how to use bazel for golang and docker.
 Try
 
 ```
