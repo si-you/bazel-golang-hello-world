@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"hello"
+	"github.com/si-you/bazel-golang-hello-world/hello"
 )
 
 func main() {
