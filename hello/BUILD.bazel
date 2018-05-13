@@ -15,7 +15,6 @@ go_binary(
   deps = [
     ":hello_lib",
   ],
-  importpath = "github.com/si-you/bazel-golang-hello-world/hello",
 )
 
 go_image(
@@ -24,5 +23,4 @@ go_image(
   deps = [
     ":hello_lib",
   ],
-  importpath = "github.com/si-you/bazel-golang-hello-world/hello",
 )
